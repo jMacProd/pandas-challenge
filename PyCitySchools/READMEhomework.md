@@ -165,11 +165,11 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
 
-### Scores by School Size******
+### Scores by School Size
 
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-### Scores by School Type******
+### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
